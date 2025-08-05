@@ -16,6 +16,3 @@ A simple and powerful real-time chat application that allows users to send and r
 - **WebSocket:** Socket.io
 - **Database:** MongoDB (or any other DB)
 
-## 📸 Preview
-
-
